@@ -1,5 +1,3 @@
-import jdk.incubator.vector.VectorOperators.Binary
-
 fun main() {
     println("Hello World!")
 
